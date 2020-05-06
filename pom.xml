@@ -23,6 +23,6 @@
     
   </dependencies>
   <build>
-    <finalName>demoproject</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
